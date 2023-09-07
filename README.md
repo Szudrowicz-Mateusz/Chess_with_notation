@@ -8,6 +8,7 @@ I created files "database.h" and "database.cpp" and modfied "chessGame.cpp" a lo
 
 I also change the structure of CMake files so intruction given by Lefti will be usless.
 I use CMake and I will provide here how to do it:
+
     0) cd Chess_withDB
     1) mkdir build
     2) cd build
