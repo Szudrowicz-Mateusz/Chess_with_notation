@@ -7,14 +7,13 @@ I created files "database.h" and "database.cpp" and modfied "chessGame.cpp" a lo
     ## **https://github.com/Lefti97/Chess-SFML**
 
 I also change the structure of CMake files so intruction given by Lefti will be usless.
-I use CMake and I will provide here how to do it:
 
-    0) cd Chess_withDB
-    1) mkdir build
-    2) cd build
-    3) cmake ..
-    4) make
-    5) ./p
+CMake:
+
+    1) mkdir build && cd build
+    2) cmake ..
+    3) make
+    4) ./p
 
 For looking into DB you can use variety of programs but I ryly recomend using **DB Browser for SQLite**. Easily access to data. Only thing that you need use refresh button if you want to see new moves if you have opend DB.
 
